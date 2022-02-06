@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HameedView
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Javescript 
-- 💞️ I’m looking to collaborate on any project 
+- 🌱 I’m currently learning web development 
+- 💞️ I’m ready to collaborate on any project 
 - 📫 How to reach me ayoolaolamee@gmail.com
 
 <!---
